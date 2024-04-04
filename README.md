@@ -9,7 +9,7 @@
   
 - 🌱 I’m currently learning **OOP with Java**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **IACC**
 
 - 💬 Ask me about **Web development | OOC**
 
